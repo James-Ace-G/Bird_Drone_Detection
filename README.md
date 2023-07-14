@@ -4,7 +4,8 @@
 
  This projects aim is to creat is program that will detect if there are birds or drones in the sky. This could be used for checking if it is safe for planes to takeoff or land, lowering the possibility of plane incidents. 
 
-![add image descrition here](direct image link here)
+![A bird in the sky](![out1](https://github.com/James-Ace-G/Bird_Drone_Detection/assets/139392039/07e75958-484b-4441-bbd6-9438baff610d)
+)
 
 ## The Algorithm
 
