@@ -32,4 +32,4 @@ The algorithm takes a large dataset of images of birds and drones as well as the
 17. For testing, find and image online and download it to  jetson-inference/python/training/classification on nano.
 18. Start testing by using this code: `imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/bds/<Folder Name>/<The File Name>.jpg <The name you want to save>.jpg`
 19. In VSCode see the image that was outputed with the accuracy on the top left
-[View a video explanation here](video link)
+[Test]((https://youtu.be/KnXQcoF6MJA)https://youtu.be/KnXQcoF6MJA)
